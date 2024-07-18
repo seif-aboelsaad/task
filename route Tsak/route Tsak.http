@@ -1,0 +1,6 @@
+@route_Tsak_HostAddress = http://localhost:5267
+
+GET {{route_Tsak_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
